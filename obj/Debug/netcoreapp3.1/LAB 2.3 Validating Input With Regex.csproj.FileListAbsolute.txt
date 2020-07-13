@@ -1,0 +1,13 @@
+C:\devbuild4\LAB 2.3 Validating Input With Regex\bin\Debug\netcoreapp3.1\LAB 2.3 Validating Input With Regex.exe
+C:\devbuild4\LAB 2.3 Validating Input With Regex\bin\Debug\netcoreapp3.1\LAB 2.3 Validating Input With Regex.deps.json
+C:\devbuild4\LAB 2.3 Validating Input With Regex\bin\Debug\netcoreapp3.1\LAB 2.3 Validating Input With Regex.runtimeconfig.json
+C:\devbuild4\LAB 2.3 Validating Input With Regex\bin\Debug\netcoreapp3.1\LAB 2.3 Validating Input With Regex.runtimeconfig.dev.json
+C:\devbuild4\LAB 2.3 Validating Input With Regex\bin\Debug\netcoreapp3.1\LAB 2.3 Validating Input With Regex.dll
+C:\devbuild4\LAB 2.3 Validating Input With Regex\bin\Debug\netcoreapp3.1\LAB 2.3 Validating Input With Regex.pdb
+C:\devbuild4\LAB 2.3 Validating Input With Regex\obj\Debug\netcoreapp3.1\LAB 2.3 Validating Input With Regex.csprojAssemblyReference.cache
+C:\devbuild4\LAB 2.3 Validating Input With Regex\obj\Debug\netcoreapp3.1\LAB 2.3 Validating Input With Regex.AssemblyInfoInputs.cache
+C:\devbuild4\LAB 2.3 Validating Input With Regex\obj\Debug\netcoreapp3.1\LAB 2.3 Validating Input With Regex.AssemblyInfo.cs
+C:\devbuild4\LAB 2.3 Validating Input With Regex\obj\Debug\netcoreapp3.1\LAB 2.3 Validating Input With Regex.csproj.CoreCompileInputs.cache
+C:\devbuild4\LAB 2.3 Validating Input With Regex\obj\Debug\netcoreapp3.1\LAB 2.3 Validating Input With Regex.dll
+C:\devbuild4\LAB 2.3 Validating Input With Regex\obj\Debug\netcoreapp3.1\LAB 2.3 Validating Input With Regex.pdb
+C:\devbuild4\LAB 2.3 Validating Input With Regex\obj\Debug\netcoreapp3.1\LAB 2.3 Validating Input With Regex.genruntimeconfig.cache
